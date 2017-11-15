@@ -1,7 +1,7 @@
 {
-  "name": "react-notifications",
-  "version": "1.4.3",
-  "description": "Notification component for ReactJS",
+  "name": "simple-react-notifications",
+  "version": "0.0.1",
+  "description": "Simple notifications for ReactJS",
   "main": "lib/index.js",
   "scripts": {
     "start": "NODE_ENV=development babel-node example/webpack.server.js --hot",
@@ -72,12 +72,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/minhtranite/react-notifications.git"
+    "url": "https://github.com/michaelrodov/simple-react-notifications.git"
   },
-  "author": "Minh Tran",
+  "author": "Michael Rodov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/minhtranite/react-notifications/issues"
+    "url": "https://github.com/michaelrodov/simple-react-notifications/issues"
   },
-  "homepage": "https://github.com/minhtranite/react-notifications"
+  "homepage": "https://github.com/michaelrodov/simple-react-notifications"
 }
